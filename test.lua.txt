@@ -47,23 +47,10 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/whywhatbro/tonghopha
      
 ------- BUTTON
     
-    AddButton(Tab2o, {
+    AddButton(Tab1o, {
      Name = "hackvip cần key",
     Callback = function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
-    end
-    
-})
-
------- Tab
-     local Tab3o = MakeTab({Name = "chuaco"})
-     
-------- BUTTON
-    
-    AddButton(Tab1o, {
-     Name = chuaco",
-    Callback = function()
-    
     end
     
 })
