@@ -1,9 +1,9 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/whywhatbro/tonghophack/refs/heads/main/test.lua.txt")))()
 
        local Window = MakeWindow({
          Hub = {
          Title = "bomayhack",
-         Animation = "🤑"
+         Animation = "🔥67🔥"
          },
         Key = {
         KeySystem = false,
